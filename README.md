@@ -1,5 +1,5 @@
 # Hi, I'm Ikechukwu!
-I'm a self-taught data analyst with background in operational data and work force management now building impactful projects in excel, SQL, Power BI and Python
+I'm a self-taught data analyst with background in operational data and work force management and now I'm building impactful projects in excel, SQL, Power BI and Python
 ## Tools I work with
 -Microsoft Excel
 -SQL
